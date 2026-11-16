@@ -152,4 +152,4 @@ Source: [Asahi Linux M2 feature support](https://asahilinux.org/docs/platform/fe
 
 ---
 
-*Author: [ArcSkt1](https://github.com/ArcSkt1) · CompTIA A+ · CompTIA Network+*
+*Author: [nachtlos1](https://github.com/nachtlos1) · CompTIA A+ · CompTIA Network+*
